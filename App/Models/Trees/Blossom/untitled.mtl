@@ -1,0 +1,22 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Trunk.003
+Ns 4.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd peachBlossomTexture.jpg
+
+newmtl TwigFlowers
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.074803 0.074803 0.074803
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd peachBlossomTexture.jpg
